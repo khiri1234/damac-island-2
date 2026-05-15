@@ -6,7 +6,7 @@
     <title>در حال انتقال...</title>
     
     <!-- در بخش پایین به جای آدرس گوگل، لینک پروژه مورد نظر خود را قرار دهید -->
-    <meta http-equiv="refresh" content="0;url=https://www.google.com">
+    <meta http-equiv="refresh" content="0;url= https://my.remapp.ae/api/off_plan/project/offer/699d76b7d8dc39bd9199c0ce/4039655462?full_description=true&units=true&developer=true&prices=true&map=true&payment_plans=true&offer_currency=AED&offer_language=fa&theme=light&design=v2&area=sqft&payment_plans_ids=699d77dbd8dc39bd919a2f71">
     
     <style>
         body {
